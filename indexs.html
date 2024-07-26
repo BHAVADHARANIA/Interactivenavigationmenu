@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Interactive Navigation Menu</title>
+</head>
+<body>
+<link rel="stylesheet" href="styles.css"> 
+<header>
+  <nav id="navbar">
+    <ul>
+      <li><a href="#" class="nav-link">Home</a></li>
+      <li><a href="#" class="nav-link">About</a></li>
+      <li><a href="#" class="nav-link">Services</a></li>
+      <li><a href="#" class="nav-link">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+<center>
+<!-- Main content area -->
+<div class="content">
+  <h1>Welcome to Our Website</h1>
+  <p>This is a simple example demonstrating an interactive navigation menu with scroll and hover effects.</p>
+  <img src="C:\Users\Bhava\OneDrive\Pictures\ammu.jpg" alt="Image Description">
+  <section id="Services">
+    <h2>Our Services</h2>
+We offer a range of services, including SEO consulting, software development, and more. We specialize in creating custom products that meet your specific needs, all at competitive rates.
+</section>
+<section id="about">
+<h1>About Us</h1>
+Transforming the Way People Learn
+Our mission is to create innovative and accessible learning solutions that empower people of all ages and backgrounds to achieve their full potential. Whether you're a student looking to improve your grades, a professional seeking to upskill, or an organization looking to enhance employee training, we have the tools and resources you need to succeed.
+
+If you're looking for an innovative and dynamic learning experience that will help you achieve your goals and unlock your full potential, we invite you to join us on this exciting journey. Together, we can transform the way we learn and create a better future for all.</section>
+</div>
+</center>
+<script src="scipts.js">
+</script>
+</body>
+</html>
